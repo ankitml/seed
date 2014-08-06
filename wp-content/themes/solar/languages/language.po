@@ -1,0 +1,843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Solar\n"
+"POT-Creation-Date: 2014-06-11 12:25+0100\n"
+"PO-Revision-Date: 2014-06-11 12:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: Themes Kingdom <info@themeskingdom.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "404: Page not found"
+msgstr ""
+
+#: 404.php:15
+msgid "We are terribly sorry, but nothing exists at this URL:"
+msgstr ""
+
+#: 404.php:18
+msgid "Try searching the site:"
+msgstr ""
+
+#: 404.php:21 searchform.php:4
+msgid "SEARCH"
+msgstr ""
+
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:32
+msgid "Archives"
+msgstr ""
+
+#: archive.php:65 category.php:46 index.php:50 templates/template-grid.php:72
+msgid "Older Posts <i class=\"icon-load\"></i>"
+msgstr ""
+
+#: comments.php:49
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:58
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:62
+msgid " Edit"
+msgstr ""
+
+#: comments.php:107
+msgid " THOUGHTS ON"
+msgstr ""
+
+#: comments.php:119
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:122
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:130 comments.php:143
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:158
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:165
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: comments.php:166
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:166
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:169
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:171
+msgid "NAME(REQUIRED)"
+msgstr ""
+
+#: comments.php:174
+msgid "EMAIL(REQUIRED)"
+msgstr ""
+
+#: comments.php:178
+msgid "COMMENT(REQUIRED)"
+msgstr ""
+
+#: comments.php:180
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:180
+msgid "POST COMMENT"
+msgstr ""
+
+#: footer.php:85
+msgid ""
+"&copy; Copyright Information Goes Here &copy; 2014. All Rights Reserved."
+msgstr ""
+
+#: header.php:23
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: header.php:116
+msgid "Type here and press enter."
+msgstr ""
+
+#: header.php:118 header.php:136
+msgid "Search"
+msgstr ""
+
+#: header.php:120 header.php:138
+msgid "Menu"
+msgstr ""
+
+#: image.php:28
+#, php-format
+msgid ""
+"<h5><span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</"
+"time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s "
+"&times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery"
+"\">%8$s</a>."
+msgstr ""
+
+#: image.php:39
+msgid "Edit"
+msgstr ""
+
+#: image.php:46
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:47
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: image.php:92
+msgid "Pages:"
+msgstr ""
+
+#: search.php:28
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:47
+msgid "No Results Found"
+msgstr ""
+
+#: sendcontact.php:33 sendcontact.php:53
+msgid "You received e-mail from "
+msgstr ""
+
+#: sendcontact.php:33 sendcontact.php:53
+msgid " using "
+msgstr ""
+
+#: config/builder-block-config.php:115
+msgid "Builder Block 1"
+msgstr ""
+
+#: config/builder-block-config.php:118 config/meta-box-config.php:115
+#: config/meta-box-config.php:121
+msgid "Advertisement Link"
+msgstr ""
+
+#: config/builder-block-config.php:125 config/meta-box-config.php:128
+msgid "Custom Banner Code"
+msgstr ""
+
+#: config/builder-block-config.php:139
+msgid "Builder Block 2"
+msgstr ""
+
+#: config/builder-block-config.php:142 config/meta-box-config.php:148
+msgid "Banner Stats"
+msgstr ""
+
+#: config/meta-box-config.php:142
+msgid "Advertisement"
+msgstr ""
+
+#: config/meta-box-config.php:190 config/meta-box-config.php:196
+msgid "Sidebar Position"
+msgstr ""
+
+#: config/meta-box-config.php:197
+msgid "Short description"
+msgstr ""
+
+#: config/meta-box-config.php:207
+msgid "Select sidebar"
+msgstr ""
+
+#: config/meta-box-config.php:226
+msgid "Slider Fields"
+msgstr ""
+
+#: config/meta-box-config.php:242
+msgid "Link"
+msgstr ""
+
+#: config/meta-box-config.php:248
+msgid "Link Text"
+msgstr ""
+
+#: config/meta-box-config.php:255
+msgid "Link Url"
+msgstr ""
+
+#: config/meta-box-config.php:265 config/meta-box-config.php:271
+msgid "Quote Text"
+msgstr ""
+
+#: config/meta-box-config.php:278
+msgid "Quote Author"
+msgstr ""
+
+#: config/meta-box-config.php:288 config/meta-box-config.php:294
+msgid "Video Link"
+msgstr ""
+
+#: config/meta-box-config.php:304
+msgid "Audio Options"
+msgstr ""
+
+#: config/meta-box-config.php:310
+msgid "Audio Link"
+msgstr ""
+
+#: functions/add-wordpress-supports.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:164 functions/functions.php:449
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:165 functions/functions.php:450
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:166 functions/functions.php:451
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:178
+#: functions/class-tgm-plugin-activation.php:490 functions/functions.php:463
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:179
+#: functions/class-tgm-plugin-activation.php:1846 functions/functions.php:464
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:517
+#: functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1299 functions/widgets.php:428
+msgid "Type"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/functions.php:429
+msgid "ThemesKingdom Shortcodes"
+msgstr ""
+
+#: functions/functions.php:452
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/functions.php:465
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/meta-boxes.php:195 functions/meta-boxes.php:201
+msgid "None"
+msgstr ""
+
+#: functions/meta-boxes.php:363 functions/meta-boxes.php:371
+msgid "Title:  "
+msgstr ""
+
+#: functions/meta-boxes.php:364 functions/meta-boxes.php:372
+msgid "Text:  "
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:18
+#: functions/post-types-and-taxonomies.php:19
+#: functions/post-types-and-taxonomies.php:30
+msgid "Sidebars"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:20
+#: functions/post-types-and-taxonomies.php:58
+msgid "Add New"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:21
+msgid "Add New Sidebar"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:22
+msgid "Edit Sidebar"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:23
+msgid "New Sidebar"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:24
+msgid "All Sidebars"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:25
+msgid "View this Sidebar"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:26
+msgid "Search Sidebars"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:27
+msgid "No Sidebars"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:28
+msgid "No Sidebars in Trash"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:56
+#: functions/post-types-and-taxonomies.php:57
+#: functions/post-types-and-taxonomies.php:68
+msgid "Advertising"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:59
+msgid "Add New Ad"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:60
+msgid "Edit Ad"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:61
+msgid "New Ad"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:62
+msgid "All Ads"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:63
+msgid "View this Ad"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:64
+msgid "Search Ads"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:65
+msgid "No Ads"
+msgstr ""
+
+#: functions/post-types-and-taxonomies.php:66
+msgid "No Ads in Trash"
+msgstr ""
+
+#: functions/theme-settings.php:741
+msgid "All Categories"
+msgstr ""
+
+#: functions/update-notifier.php:37
+msgid "Theme Updates"
+msgstr ""
+
+#: functions/update-notifier.php:38
+msgid "There is a new version of the"
+msgstr ""
+
+#: functions/update-notifier.php:38
+msgid "theme available."
+msgstr ""
+
+#: functions/update-notifier.php:38
+msgid "You have version"
+msgstr ""
+
+#: functions/update-notifier.php:38
+msgid "installed. Update to version"
+msgstr ""
+
+#: functions/update-notifier.php:43 functions/update-notifier.php:44
+msgid "Update Download and Instructions"
+msgstr ""
+
+#: functions/update-notifier.php:44
+msgid "make a"
+msgstr ""
+
+#: functions/update-notifier.php:44
+msgid "backup"
+msgstr ""
+
+#: functions/update-notifier.php:44
+msgid "of the Theme inside your WordPress installation folder"
+msgstr ""
+
+#: functions/update-notifier.php:45
+msgid "To update the Theme, login to your account, head over to your"
+msgstr ""
+
+#: functions/update-notifier.php:45
+msgid "downloads"
+msgstr ""
+
+#: functions/update-notifier.php:45
+msgid "section and re-download the theme like you did when you bought it."
+msgstr ""
+
+#: functions/update-notifier.php:46
+msgid ""
+"Extract the zip's contents, look for the extracted theme folder, and after "
+"you have all the new files upload them using FTP to the"
+msgstr ""
+
+#: functions/update-notifier.php:46
+msgid ""
+"folder overwriting the old ones (this is why it's important to backup any "
+"changes you've made to the theme files)."
+msgstr ""
+
+#: functions/update-notifier.php:47
+msgid ""
+"If you didn't make any changes to the theme files, you are free to overwrite "
+"them with the new ones without the risk of losing theme settings, pages, "
+"posts, etc, and backwards compatibility is guaranteed."
+msgstr ""
+
+#: functions/update-notifier.php:52
+msgid "Changelog"
+msgstr ""
+
+#: functions/widgets.php:13
+msgid " - Twitter Stream"
+msgstr ""
+
+#: functions/widgets.php:53 functions/widgets.php:294
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets.php:58
+msgid "Number of tweets:"
+msgstr ""
+
+#: functions/widgets.php:63
+msgid "Twitter will not work unless you have set up Twitter authentication at "
+msgstr ""
+
+#: functions/widgets.php:63
+msgid "theme administration"
+msgstr ""
+
+#: functions/widgets.php:79
+msgid " - Advertising Widget"
+msgstr ""
+
+#: functions/widgets.php:170
+msgid "Fullwidth"
+msgstr ""
+
+#: functions/widgets.php:171
+msgid "Halfwidth"
+msgstr ""
+
+#: functions/widgets.php:190
+msgid " - Newsletter"
+msgstr ""
+
+#: functions/widgets.php:217 functions/widgets.php:227
+msgid "SEND"
+msgstr ""
+
+#: functions/widgets.php:298
+msgid "Newsletter Text:"
+msgstr ""
+
+#: functions/widgets.php:302
+msgid "Chose Service:"
+msgstr ""
+
+#: functions/widgets.php:311
+msgid "MailChimp API Key:"
+msgstr ""
+
+#: functions/widgets.php:316
+msgid "MailChimp API List:"
+msgstr ""
+
+#: functions/widgets.php:318
+msgid "Grab your Lists Unique Id by going to "
+msgstr ""
+
+#: functions/widgets.php:318 functions/widgets.php:323
+msgid "here"
+msgstr ""
+
+#: functions/widgets.php:318
+msgid ""
+" Click the \"settings\" link for the list - the Unique Id is at the bottom "
+"of that page."
+msgstr ""
+
+#: functions/widgets.php:321
+msgid "MadMimi Unique Number:"
+msgstr ""
+
+#: functions/widgets.php:323
+msgid "Insert your MadMimi unique number.Click "
+msgstr ""
+
+#: functions/widgets.php:323
+msgid ""
+" or you can find this number when you log in into your MadMimi account, "
+"under WEBFORM click on SHARE and you will get link like this http://mad.ly/"
+"signups/<strong>XXXXX</strong>/join. Insert this number here."
+msgstr ""
+
+#: functions/widgets.php:343
+msgid " - Flickr Photo Stream"
+msgstr ""
+
+#: functions/widgets.php:376
+msgid "Please provide an Flickr ID"
+msgstr ""
+
+#: functions/widgets.php:423
+msgid "Title"
+msgstr ""
+
+#: functions/widgets.php:424
+msgid "Give the widget title, or leave it empty for no title."
+msgstr ""
+
+#: functions/widgets.php:429
+msgid "The type of images from user or group."
+msgstr ""
+
+#: functions/widgets.php:437
+msgid "Flickr ID"
+msgstr ""
+
+#: functions/widgets.php:439
+msgid ""
+"Put the flickr ID here, go to <a href=\"http://goo.gl/PM6rZ\" target=\"_blank"
+"\">Flickr NSID Lookup</a> if you don't know your ID. Example: 71865026@N00"
+msgstr ""
+
+#: functions/widgets.php:442
+msgid "Number"
+msgstr ""
+
+#: functions/widgets.php:443
+msgid "Number of images shown from 1 to 10"
+msgstr ""
+
+#: functions/widgets.php:447
+msgid "Display Method"
+msgstr ""
+
+#: functions/widgets.php:448
+msgid "Get the image from recent or use random function."
+msgstr ""
+
+#: templates/template-contact.php:154
+msgid "Name (Required)"
+msgstr ""
+
+#: templates/template-contact.php:160
+msgid "Email (Required)"
+msgstr ""
+
+#: templates/template-contact.php:166
+msgid "Message (Required)"
+msgstr ""
+
+#: templates/template-contact.php:181
+msgid "Cant read? Refresh Image: "
+msgstr ""
+
+#: templates/template-contact.php:191
+msgid "Send Message"
+msgstr ""
+
+#: templates/template-contact.php:210
+msgid "Invalid Captcha!"
+msgstr ""
+
+#: templates/parts/content-single.php:42
+msgid "Category"
+msgstr ""
+
+#: templates/parts/content-single.php:49
+msgid "Tags"
+msgstr ""
+
+#: templates/parts/content-single.php:61
+msgid "Share This"
+msgstr ""
+
+#: templates/parts/entry-social.php:24
+msgid "Facebook"
+msgstr ""
+
+#: templates/parts/entry-social.php:33
+msgid "Twitter"
+msgstr ""
+
+#: templates/parts/entry-social.php:42
+msgid "Google+"
+msgstr ""
+
+#: templates/parts/entry-social.php:51
+msgid "LinkedIn"
+msgstr ""
+
+#: templates/parts/entry-social.php:61
+msgid "Pinterest"
+msgstr ""
+
+#: templates/parts/entry-social.php:70
+msgid "Stumbleupon"
+msgstr ""
+
+#: templates/parts/format-quote.php:27 templates/parts/format-standard.php:26
+#: templates/parts/format-standard.php:54 templates/parts/format-video.php:24
+#: templates/parts/format-video.php:57
+msgid "Sticky"
+msgstr ""

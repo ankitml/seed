@@ -1,0 +1,139 @@
+span.dropcap-background {
+	background: #ebeced;
+	padding: 3px 10px;
+	line-height: 30px!important;
+}
+
+span.dropcap-no-background {
+	line-height: 45px!important;
+	padding: 2px 5px 0 0;
+}
+
+.tk_sc_block_toggle .tk_icon-tk-plus,
+.tk_sc_block_toggle .tk_icon-tk-minus {
+	top: 16px;
+}
+
+.tk_sc_block_accordion i.tk_icon-tk-drop-d {
+	font-size: 17px;
+	top: 22px;
+}
+
+.single-post .shortcodes .block {
+	padding: 0;
+	border: none;
+	margin-top: 0;
+}
+
+body .progress {
+	margin: 0 0 15px;
+}
+
+.tk_sc_block_tabs h5 {
+	margin: 10px 0;
+}
+
+a.btn {
+	font-family: "Oxygen", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	text-transform: none;
+	padding: 8px 20px 8px;
+}
+
+a.btn-large {
+	padding: 14px 25px 13px;
+	font-size: 17px;
+}
+
+a.btn-small {
+	padding: 5px 14px 5px;
+	font-size: 14px;
+}
+
+a.btn-mini {
+	padding: 3px 10px 3px;
+	font-size: 12px;
+}
+
+.pricing-table-one .pricing-button a {
+	padding: 11px 14px 11px;
+	font-size: 14px;
+}
+
+.pricing-table-one-center a {
+	color: #000000;
+}
+
+.pricing-table-one-center span, .pricing-table-one-center a, .pricing-table-one-center p {
+	font-family: "Oxygen", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+
+.pricing-table-one-center p {
+	margin-top: 2px;
+}
+
+.pricing-table-one-top h4 {
+	margin: 5px 0;
+	font-size: 22px;
+}
+
+.pricing-table-one-center p a:hover {
+	text-decoration: underline;
+}
+
+.pricing-table-one h6 {
+	margin-top: 0;
+}
+
+.col-sm-6 .pricing-table-one-center {
+	padding: 7px 20px;
+}
+
+.post .row .col-sm-4 p,
+.post .row .col-sm-3 p,
+.post .row .col-sm-2 p,
+.post .row .col-sm-6 p {
+	margin-bottom: 15px;
+}
+
+.post .row .col-sm-4 .tk-shortcode-tabs p,
+.post .row .col-sm-3 .tk-shortcode-tabs p,
+.post .row .col-sm-2 .tk-shortcode-tabs p,
+.post .row .col-sm-6 .tk-shortcode-tabs p {
+	margin-bottom: 0;
+}
+
+.tk_sc_block_toggle h5.tab-head, 
+.tk_sc_block_accordion h5.tab-head {
+	padding: 23px 75px 20px 20px;
+}
+
+.tk_sc_block_toggle .tab-body p {
+	padding: 0 20px 20px 20px;
+}
+
+.single-post .block strong {
+	font-family: "Oxygen", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #616161;
+}
+
+body .progress .bar {
+	background: #559450;
+}
+
+.tk_sc_block_accordion .tab-body {
+	padding: 20px;
+}
+
+.tk_sc_block_accordion .tab-body p {
+	margin-bottom: 0!important;
+}
+
+.col-sm-12 .pricing-table-one-center {
+	padding: 7px 20px
+}
+
+.tk_sc_block_toggle {
+	border: 1px solid #e6e6e6;
+}
